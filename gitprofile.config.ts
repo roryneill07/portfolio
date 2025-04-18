@@ -33,20 +33,27 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions, or consider exploring the `enablement` parameter for this action.',
+          title: 'TyreSupplies.co.nz',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'I am working on an online store to address a gap in the market for Patch Rubber's niche products to the general market instead of exclusively B2B customers
+Created a user friendly and visually appealing website using Shopify to sell online
+Developed an integration using Python to streamline the order fulfilment process
+Responded to customer queries and orders in a time efficient manner
+Increased sales beyond $50,000 using a range of promotion methods including Google Ads, SEO, and a TradeMe store integration.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://tyresupplies.co.nz',
         },
         {
-          title: 'Project Name',
+          title: 'Hill Country Farms (Hawkes Bay)',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'I collaborated with the team to help create solutions to sell their new farm-to-table "Speckle Park" meat box offering
+Created a custom online store using PHP, Wordpress and WooCommerce
+Conducted Google Ads over the holiday period to optimise the websites visibility and attract a broader audience, increasing orders by over 500%
+Provided ongoing maintenance and support to ensure the website's functionality, security and performance remained at high standards',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://hillcountryfarms.co.nz',
         },
       ],
     },
@@ -234,11 +241,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  footer: `Copyright (C) 2025 Rory Neill.  All Rights Reserved.`,
 
   enablePWA: true,
 };
